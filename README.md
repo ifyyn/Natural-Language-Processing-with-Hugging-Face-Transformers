@@ -1,4 +1,7 @@
 ## Natural-Language-Processing-with-Hugging-Face-Transformers
+------
+### Author : Svitlana Kramar
+
 
 <h1 align="center">Hi 👋, I'm Fathul Arifin</h1>
 
