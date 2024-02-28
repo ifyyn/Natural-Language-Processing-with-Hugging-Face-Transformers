@@ -2,6 +2,9 @@
 ------
 ### Author : Svitlana Kramar
 
+<p>Mentee assignment from IBM Advance AI @ Infinite Learning Course <b>Natural-Language-Processing-with-Hugging-Face-Transformers</b>
+from CognitiveClass.ai</p>
+
 
 <h1 align="center">Hi 👋, I'm Fathul Arifin</h1>
 
