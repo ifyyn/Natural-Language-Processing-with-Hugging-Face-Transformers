@@ -1,4 +1,4 @@
-## BreadcrumbsNatural-Language-Processing-with-Hugging-Face-Transformers
+## Natural-Language-Processing-with-Hugging-Face-Transformers
 
 <h1 align="center">Hi 👋, I'm Fathul Arifin</h1>
 
